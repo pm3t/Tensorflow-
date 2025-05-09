@@ -1,4 +1,4 @@
-# Pengenalan TensorFlow: Panduan Lengkap untuk Semua Tingkat
+# Pengenalan TensorFlow
 
 ## Apa Itu TensorFlow?
 
