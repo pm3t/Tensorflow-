@@ -70,7 +70,7 @@ model = Sequential([
 
 ## Bagian 3: Aplikasi TensorFlow
 
-Berikut adalah beberapa aplikasi praktis TensorFlow, mulai dari pemula hingga tingkat lanjut.
+Berikut adalah beberapa aplikasi praktis TensorFlow.
 
 ### 1. **Klasifikasi Gambar**
 Menggunakan dataset bawaan seperti MNIST untuk mengklasifikasikan digit tulisan tangan.
