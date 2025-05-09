@@ -52,7 +52,7 @@ print(tensor)
 Pada TensorFlow versi 1.x, model dibangun menggunakan graph dan dieksekusi dalam sessions. Namun, pada TensorFlow 2.x, eksekusi secara eager (`eager execution`) adalah default.
 
 ### 3. **Model dan Layers**
-TensorFlow menyediakan API tingkat tinggi seperti `tf.keras` untuk membangun model pembelajaran mesin.
+TensorFlow menyediakan API seperti `tf.keras` untuk membangun model pembelajaran mesin.
 
 Contoh model linear sederhana:
 ```python
